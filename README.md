@@ -3,7 +3,7 @@
 #### Description
 一款基于vuepress的博客
 对开源项目二次开发
-猫哥博客地址 [https://www.maoge.cool](https:www.maoge.cool)
+猫哥博客地址 [http://www.maoge.cool/](http://www.maoge.cool/)
 
 #### Installation
 
